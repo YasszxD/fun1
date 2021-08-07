@@ -1,0 +1,16 @@
+div input{
+    display: block;
+}
+
+div{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+button{
+    margin-top:15px ;
+    display: block;
+}
